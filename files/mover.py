@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import getch
 import roslib; roslib.load_manifest('nodes')
 import rospy
 from std_msgs.msg import Int8
